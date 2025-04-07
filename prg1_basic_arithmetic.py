@@ -1,5 +1,8 @@
-x=10
-y=3
+a=10
+b=20
+
+x=a
+y=b  #---a,b assigned with x,y 
 
 
 add=x+y
