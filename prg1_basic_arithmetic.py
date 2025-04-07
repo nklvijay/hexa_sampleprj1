@@ -1,5 +1,7 @@
 a=10
 b=20
+c=30 #new variable
+x=c
 
 x=a
 y=b  #---a,b assigned with x,y 
