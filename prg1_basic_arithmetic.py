@@ -1,8 +1,4 @@
-a=10
-b=20
-c=30 #new variable
-x=c
-
+a=1
 x=a
 y=b  #---a,b assigned with x,y 
 
