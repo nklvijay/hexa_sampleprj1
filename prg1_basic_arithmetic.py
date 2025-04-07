@@ -1,6 +1,6 @@
 a=10
 b=20
-
+d=c
 x=a
 y=b  #---a,b assigned with x,y 
 
